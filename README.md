@@ -1,1 +1,1 @@
-# final-project-public
+# implement this project following instructions in the accompanying word document.
